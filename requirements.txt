@@ -1,0 +1,8 @@
+streamlit==1.31.0
+audio-recorder-streamlit==0.0.8
+librosa==0.10.1
+numpy==1.26.3
+pydub==0.25.1
+scipy==1.11.4
+matplotlib==3.8.2
+seaborn==0.13.0
